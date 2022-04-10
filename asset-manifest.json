@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CryptoSimpleApp/static/css/main.d6e6650c.css",
+    "main.js": "/CryptoSimpleApp/static/js/main.7514497b.js",
+    "static/js/787.9340f2da.chunk.js": "/CryptoSimpleApp/static/js/787.9340f2da.chunk.js",
+    "index.html": "/CryptoSimpleApp/index.html",
+    "main.d6e6650c.css.map": "/CryptoSimpleApp/static/css/main.d6e6650c.css.map",
+    "main.7514497b.js.map": "/CryptoSimpleApp/static/js/main.7514497b.js.map",
+    "787.9340f2da.chunk.js.map": "/CryptoSimpleApp/static/js/787.9340f2da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6e6650c.css",
+    "static/js/main.7514497b.js"
+  ]
+}
